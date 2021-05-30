@@ -1,3 +1,5 @@
 # CS122A-Smart-Garage
 
-See Project Report.pdf
+# Embedded-Systems-Project
+Embedded Systems Project for CS122A @ University of California, Riverside
+
